@@ -1,0 +1,34 @@
+/* Write your code here. */
+.itemContainer{
+    margin: 20px;
+    border-color: #d7dae6;
+    border-width: 1px;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 10px;
+}
+.questionContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+button{
+    border: 0;
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+}
+hr{
+    background-color: #e4e7eb;
+    height: 1px;
+}
+.question{
+    font-size: 20px;
+    color: #52606d;
+}
+.ans{
+    color: #9aa5b1;
+}
+li{
+    list-style-type: none;
+}
