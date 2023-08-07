@@ -1,12 +1,4 @@
-// Write your code here.
-/*
--add bg
--add card
--create faqItem component
--add h1 ,img in button,hr and p elements with props value as textcontent
--create ishidden variable and default value as false
--toggle the image and ans element when clicked img element
-*/
+
 import {Component} from 'react'
 
 import FaqItem from '../FaqItem'
